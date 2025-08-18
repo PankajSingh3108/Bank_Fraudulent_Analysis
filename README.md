@@ -47,6 +47,5 @@ Fraud_Analysis_Cleaned.xlsx	Data cleaning, derived columns
 Fraud_Dashboard.pbix	Interactive Power BI report
 Project_Summary_Fraud.pdf	This document summary
 
-🗣️ Interview Summary (How to Explain)
 "I conducted a fraud pattern analysis project using anonymized banking data. I cleaned the data in Excel, wrote SQL queries to identify peak fraud hours and high-risk transaction types, and built a Power BI dashboard showing real-time alerts and fraud KPIs. I also documented the project from a business analyst's perspective including BRD, stakeholder mapping, and process redesign."
 
