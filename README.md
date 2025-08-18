@@ -1,4 +1,4 @@
-Step 8: Final Summary – Fraud Detection Project
+
 🧾 Project Title:
 Fraud Detection & Pattern Analysis in Bank Transactions
 
